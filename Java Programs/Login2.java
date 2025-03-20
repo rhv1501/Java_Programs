@@ -1,6 +1,5 @@
 import java.util.*;
-import java.lang.*;
-public class temp
+public class Login2
 {
     public static void main(String args[])
     {
